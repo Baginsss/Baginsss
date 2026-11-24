@@ -1,4 +1,5 @@
-Data-oriented Python developer with a strong foundation in classical econometrics, statistical inference, and quantitative analysis. Skilled in processing, analyzing, and transforming datasets using core Python tools and algorithmic problem-solving. Able to apply econometric methods — including regression modelling, hypothesis testing, and time-series fundamentals — to extract insights and validate conclusions. Detail-driven, analytical mindset, continuously improving technical workflows and code quality to support reliable, data-driven decision-making.
+Hi, I'm Mateusz 👋
+I'm a Python developer with a background in econometrics and statistical inference. I build AI agents, integrate APIs, and create interactive websites. MotoGP is a recurring theme in my work. Right now I build an agent to collect race reports and a separate model to estimate qualifying lap times from practice sessions.
 
 <!--
 **Baginsss/Baginsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
